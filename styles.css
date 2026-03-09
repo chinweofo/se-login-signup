@@ -29,7 +29,6 @@ input {
     border-radius: 5px;
 }
 
-
 button {
     padding: 10px;
     border-radius: 10px;
@@ -60,4 +59,8 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+html {
+    background-image: url(background1.jpg);
 }
